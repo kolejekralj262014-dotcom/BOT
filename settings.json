@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "lightfish.aternos.host:41033",
+    "port": 41033,
     "version": "",
     "try-creative": false
   },
