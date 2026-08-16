@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "boyzzz-jOND.aternos.me",
+    "ip": "boyzzz-jOND.aternos.me:15346",
     "port": 15346,
     "version": "1.21.4",
     "try-creative": false
